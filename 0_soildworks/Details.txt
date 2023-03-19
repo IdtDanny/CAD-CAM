@@ -1,0 +1,11 @@
+Question 10.
+	a) Outer perimeter - 476.18 mm
+	b) Inner perimeter - 509.31 mm
+	c) Nickel(Thick 10 mm) - 190.44 grams
+
+Question 12.
+	Part 1 - Titanium - 1309.63 grams
+	Part 2 - Titanium - 2674.90 grams
+	Part 3 - Titanium - 495.43 grams
+	Part 4 - Titanium - 214.67 grams
+	Part 5 - Titanium - 1264.81 grams
